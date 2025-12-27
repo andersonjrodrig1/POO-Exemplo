@@ -1,0 +1,14 @@
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\bin\Debug\net8.0\POO-Class-Triangulo-Example.exe
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\bin\Debug\net8.0\POO-Class-Triangulo-Example.deps.json
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\bin\Debug\net8.0\POO-Class-Triangulo-Example.runtimeconfig.json
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\bin\Debug\net8.0\POO-Class-Triangulo-Example.dll
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\bin\Debug\net8.0\POO-Class-Triangulo-Example.pdb
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\obj\Debug\net8.0\POO-Class-Triangulo-Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\obj\Debug\net8.0\POO-Class-Triangulo-Example.AssemblyInfoInputs.cache
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\obj\Debug\net8.0\POO-Class-Triangulo-Example.AssemblyInfo.cs
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\obj\Debug\net8.0\POO-Class-Triangulo-Example.csproj.CoreCompileInputs.cache
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\obj\Debug\net8.0\POO-Class-Triangulo-Example.dll
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\obj\Debug\net8.0\refint\POO-Class-Triangulo-Example.dll
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\obj\Debug\net8.0\POO-Class-Triangulo-Example.pdb
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\obj\Debug\net8.0\POO-Class-Triangulo-Example.genruntimeconfig.cache
+E:\Visual Studio\.net\POO-Exemplo\POO-Exemplo\obj\Debug\net8.0\ref\POO-Class-Triangulo-Example.dll
