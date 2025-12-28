@@ -1,6 +1,6 @@
 ﻿namespace POO_Class_Triangulo_Example
 {
-    public class Triangulo
+    public class Triangle
     {
         public double A;
         public double B;

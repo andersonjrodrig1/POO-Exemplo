@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Triangle-Example", "POO_Class_Triangulo_Example\POO-Class-Triangle-Example.csproj", "{BF689438-29CF-C3E9-83BA-EA1676524DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Person-Example", "POO-Class-Pessoa-Example\POO-Class-Person-Example.csproj", "{E3F0D921-897D-4D52-9A58-4619CA8BDF46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF689438-29CF-C3E9-83BA-EA1676524DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF689438-29CF-C3E9-83BA-EA1676524DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF689438-29CF-C3E9-83BA-EA1676524DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF689438-29CF-C3E9-83BA-EA1676524DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F0D921-897D-4D52-9A58-4619CA8BDF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F0D921-897D-4D52-9A58-4619CA8BDF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F0D921-897D-4D52-9A58-4619CA8BDF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F0D921-897D-4D52-9A58-4619CA8BDF46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E20E0484-5B6D-4E14-A630-AF7F28AE22B7}
+	EndGlobalSection
+EndGlobal

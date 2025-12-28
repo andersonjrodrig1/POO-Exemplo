@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO-Class-Triangulo-Example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b09f86f7808829ef7c84c7be3156a96ac0f0ceb")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO-Class-Triangulo-Example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO-Class-Triangulo-Example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

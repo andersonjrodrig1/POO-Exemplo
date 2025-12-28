@@ -1,8 +1,8 @@
 ﻿using POO_Class_Triangulo_Example;
 using System.Globalization;
 
-var x = new Triangulo();
-var y = new Triangulo();
+var x = new Triangle();
+var y = new Triangle();
 
 Console.WriteLine("Informe as medidas do triangulo X: ");
 x.A = Double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
