@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36804.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Triangle-Example", "POO_Class_Triangulo_Example\POO-Class-Triangle-Example.csproj", "{BF689438-29CF-C3E9-83BA-EA1676524DE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Person-Example", "POO-Class-Pessoa-Example\POO-Class-Person-Example.csproj", "{532CDD08-B6DA-70A8-70DE-62A1DFAFA5DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Person-Example", "POO-Class-Pessoa-Example\POO-Class-Person-Example.csproj", "{E3F0D921-897D-4D52-9A58-4619CA8BDF46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Triangle-Example", "POO-Class-Triangulo-Example\POO-Class-Triangle-Example.csproj", "{4CCD9F31-E6A7-E2F6-34CC-081C3B13930B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Employee-Example", "POO-Class-Employee-Example\POO-Class-Employee-Example.csproj", "{129FD9BB-BA66-494B-8551-53F74DDD867E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BF689438-29CF-C3E9-83BA-EA1676524DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF689438-29CF-C3E9-83BA-EA1676524DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF689438-29CF-C3E9-83BA-EA1676524DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF689438-29CF-C3E9-83BA-EA1676524DE1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E3F0D921-897D-4D52-9A58-4619CA8BDF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E3F0D921-897D-4D52-9A58-4619CA8BDF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E3F0D921-897D-4D52-9A58-4619CA8BDF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E3F0D921-897D-4D52-9A58-4619CA8BDF46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532CDD08-B6DA-70A8-70DE-62A1DFAFA5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532CDD08-B6DA-70A8-70DE-62A1DFAFA5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532CDD08-B6DA-70A8-70DE-62A1DFAFA5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532CDD08-B6DA-70A8-70DE-62A1DFAFA5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCD9F31-E6A7-E2F6-34CC-081C3B13930B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCD9F31-E6A7-E2F6-34CC-081C3B13930B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCD9F31-E6A7-E2F6-34CC-081C3B13930B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCD9F31-E6A7-E2F6-34CC-081C3B13930B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129FD9BB-BA66-494B-8551-53F74DDD867E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129FD9BB-BA66-494B-8551-53F74DDD867E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129FD9BB-BA66-494B-8551-53F74DDD867E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129FD9BB-BA66-494B-8551-53F74DDD867E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
