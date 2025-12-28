@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Triangle-Example"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Employee-Example", "POO-Class-Employee-Example\POO-Class-Employee-Example.csproj", "{129FD9BB-BA66-494B-8551-53F74DDD867E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Rectangle-Example", "POO-Class-Retangle-Example\POO-Class-Rectangle-Example.csproj", "{99B531DB-919C-43CA-AFE7-F6D08B5AFC70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{129FD9BB-BA66-494B-8551-53F74DDD867E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{129FD9BB-BA66-494B-8551-53F74DDD867E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{129FD9BB-BA66-494B-8551-53F74DDD867E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B531DB-919C-43CA-AFE7-F6D08B5AFC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B531DB-919C-43CA-AFE7-F6D08B5AFC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B531DB-919C-43CA-AFE7-F6D08B5AFC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B531DB-919C-43CA-AFE7-F6D08B5AFC70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
