@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Employee-Example"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Rectangle-Example", "POO-Class-Retangle-Example\POO-Class-Rectangle-Example.csproj", "{99B531DB-919C-43CA-AFE7-F6D08B5AFC70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Employee2-Example", "POO-Class-Employee2-Example\POO-Class-Employee2-Example.csproj", "{7D522B5C-C22B-447C-8B4F-630D6F2B4100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Class-Student-Example", "POO-Class-Estudant-Example\POO-Class-Student-Example.csproj", "{DD36EF08-4303-48F4-97AF-8CA6DE706C11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{99B531DB-919C-43CA-AFE7-F6D08B5AFC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99B531DB-919C-43CA-AFE7-F6D08B5AFC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99B531DB-919C-43CA-AFE7-F6D08B5AFC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D522B5C-C22B-447C-8B4F-630D6F2B4100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D522B5C-C22B-447C-8B4F-630D6F2B4100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D522B5C-C22B-447C-8B4F-630D6F2B4100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D522B5C-C22B-447C-8B4F-630D6F2B4100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD36EF08-4303-48F4-97AF-8CA6DE706C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD36EF08-4303-48F4-97AF-8CA6DE706C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD36EF08-4303-48F4-97AF-8CA6DE706C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD36EF08-4303-48F4-97AF-8CA6DE706C11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
